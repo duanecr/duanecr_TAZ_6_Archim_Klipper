@@ -10,35 +10,35 @@ Mainsail documentation
 https://docs.mainsail.xyz/
 
 **Initial Setup and Configuration**
-	• Install Klipper on a device if needed
-		○ Installation - Klipper documentation (klipper3d.org)
-    https://www.klipper3d.org/Installation.html
-	• Install Moonraker
-		○ Installation - Moonraker
-    https://moonraker.readthedocs.io/en/latest/installation/
-	• Install Klipperscreen for touchscreens
-		○ Installation - KlipperScreen
-    https://klipperscreen.readthedocs.io/en/latest/Installation/#auto-install
-	• Install Lulzbot version of Cura
-		○ https://www.lulzbot.com/cura
-	• Verify printer bed is clean and empty
-	• Turn on printer
-	• Turn on device running Klipper
-	• Verify amount of filament on spool
-	• Verify thickness of filament for imperfections
-	• Connect web browser to http://taz.local and verify connectivity
-	• Open Cura and run through install steps for local printer
-	• Install Moonraker plugin for Cura
-	• Connect to Klipper
-	• Set the theme settings
-		○ Lulzbot Lime Green
-			§ rgb(194, 215, 53)
+• Install Klipper on a device if needed
+○ Installation - Klipper documentation (klipper3d.org)
+https://www.klipper3d.org/Installation.html
+• Install Moonraker
+	○ Installation - Moonraker
+	https://moonraker.readthedocs.io/en/latest/installation/
+• Install Klipperscreen for touchscreens
+	○ Installation - KlipperScreen
+	https://klipperscreen.readthedocs.io/en/latest/Installation/#auto-install
+• Install Lulzbot version of Cura
+	○ https://www.lulzbot.com/cura
+• Verify printer bed is clean and empty
+• Turn on printer
+• Turn on device running Klipper
+• Verify amount of filament on spool
+• Verify thickness of filament for imperfections
+• Connect web browser to http://taz.local and verify connectivity
+• Open Cura and run through install steps for local printer
+• Install Moonraker plugin for Cura
+• Connect to Klipper
+• Set the theme settings
+	○ Lulzbot Lime Green
+		§ rgb(194, 215, 53)
 		○ Mainsail Quicktips | Themes
-     https://youtu.be/kbSfLQtl4tA?si=HL7WomTxeTPDtKlo
+	https://youtu.be/kbSfLQtl4tA?si=HL7WomTxeTPDtKlo
 	• Check E-Steps by running ??? command.
 	• Use Orca calibration to check all of the settings
 		○ Calibration · SoftFever/OrcaSlicer Wiki (github.com)
-      https://github.com/SoftFever/OrcaSlicer/wiki/Calibration
+  		https://github.com/SoftFever/OrcaSlicer/wiki/Calibration
 
 **Cura Print Settings**
 Build plate adhesion type, determine whether to print on raft, skirt, or brim
