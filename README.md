@@ -2,8 +2,11 @@
 Configuration files for Lulzbot TAZ 6 using an Archim 2 board with a BTT PAD 7 for Klipper
 
 Klipper Links
+
 https://www.klipper3d.org/
+
 https://github.com/Klipper3d/klipper
+
 https://github.com/Klipper3d/klipper/tree/master/docs
 
 Mainsail documentation
